@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IXS/default-token-list.git"
+    "url": "git+https://github.com/IX-Swap/default-token-list.git"
   },
   "keywords": [
     "ixs",
@@ -24,12 +24,12 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/IXS/default-token-list/issues"
+    "url": "https://github.com/IX-Swap/default-token-list/issues"
   },
-  "homepage": "https://github.com/IXS/default-token-list#readme",
+  "homepage": "https://github.com/IX-Swap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@ixswap1/token-lists": "^1.0.0-beta.8",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",

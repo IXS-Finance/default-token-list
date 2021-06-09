@@ -1,0 +1,4 @@
+Unable to calculate incremental build state. Instead running full rebuild. Ensure Git is present.
+
+Invoking: rimraf build && mkdir -p build && node src/write.js > build/ixs-default.tokenlist.json 
+
