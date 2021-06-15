@@ -5,7 +5,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "name": "Dai Stablecoin",
@@ -13,22 +13,22 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
-    "name": "Maker",
-    "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
-    "symbol": "MKR",
-    "decimals": 18,
+    "name": "TEST Tether USD",
+    "address": "0xD92E713d051C37EbB2561803a3b5FBAbc4962431",
+    "symbol": "TUSDT",
+    "decimals": 6,
     "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "name": "Ixs Token",
-    "address": "0x06b32E7Eb6F818c859e69334AC75f9c3b9AecF62",
+    "address": "0x735d77FC94FC5C41E68Ca0bb486F3d4AE3eEfdd9",
     "symbol": "IXS",
     "decimals": 18,
     "chainId": 4,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    "logoURI": "https://miro.medium.com/fit/c/262/262/1*gVM9kLZfl92C0_tAQaCXBA.jpeg"
   }
 ]

@@ -1,11 +1,28 @@
+const got = require("got");
 const { version } = require("../package.json");
 const mainnet = require("./tokens/mainnet.json");
-const ropsten = require("./tokens/ropsten.json");
 const rinkeby = require("./tokens/rinkeby.json");
-const goerli = require("./tokens/goerli.json");
-const kovan = require("./tokens/kovan.json");
 
-module.exports = function buildList() {
+module.exports = async function buildList() {
+  let dedupe = { n: [], s: [], a: [] };
+  let i = 0;
+  let { body: { tokens } } = await got.get("https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/tokenlist.json", { responseType: "json" });
+  tokens = tokens.map(
+    ({ name, chainId, address, symbol, decimals, logoURI }) => {
+      const n = `${ chainId || 1 }#${name}`;
+      const s = `${ chainId || 1 }#${symbol}`;
+      const a = `${ chainId || 1 }#${address}`;
+      
+      if (dedupe.n.includes(n) || dedupe.s.includes(s) || dedupe.a.includes(a)) return null;
+      else if (!name || !symbol || !address || !decimals || decimals <= 0 || !logoURI) return null;
+      else if (!/^[a-zA-Z0-9+\-%/\$]+$/.test(symbol) || !/^[ \w.'+\-%/À-ÖØ-öø-ÿ:]+$/.test(name)) return null;
+      dedupe.n.push(n); dedupe.s.push(s); dedupe.a.push(a);
+      
+      return { name, address, symbol, decimals, chainId: chainId || 1, logoURI };
+    }
+  ).filter(Boolean);
+  dedupe = null;
+  
   const parsed = version.split(".");
   return {
     name: "IXS Default List",
@@ -16,9 +33,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["ixs", "default"],
-    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby]
+    tokens: [...tokens, ...mainnet, ...rinkeby]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

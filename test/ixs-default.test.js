@@ -1,18 +1,28 @@
-const packageJson = require('../package.json');
-const schema = require('@uniswap/token-lists/src/tokenlist.schema.json');
 const { expect } = require('chai');
 const { getAddress } = require('@ethersproject/address');
 const Ajv = require('ajv');
+const packageJson = require('../package.json');
+const schema = require('./tokenlist.schema.json');
 const buildList = require('../src/buildList');
 
 const ajv = new Ajv({ allErrors: true, format: 'full' });
-const validator = ajv.compile(schema);
+const validate  = ajv.compile(schema);
 
 describe('buildList', () => {
-  const defaultTokenList = buildList();
+  let defaultTokenList;
+
+  before(async () => {
+    defaultTokenList = await buildList();
+  });
 
   it('validates', () => {
-    expect(validator(defaultTokenList)).to.equal(true);
+    const valid  = validate(defaultTokenList);
+
+    if (!valid) {
+      console.error(validate.errors);
+    }
+
+    expect(valid).to.equal(true);
   });
 
   it('contains no duplicate addresses', () => {
