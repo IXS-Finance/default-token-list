@@ -16,7 +16,7 @@
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
-    "name": "TEST Tether USD",
+    "name": "TestUsdtToken",
     "address": "0xD92E713d051C37EbB2561803a3b5FBAbc4962431",
     "symbol": "TUSDT",
     "decimals": 6,
