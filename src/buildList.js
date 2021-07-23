@@ -1,7 +1,7 @@
 const got = require("got");
 const { version } = require("../package.json");
 const mainnet = require("./tokens/mainnet.json");
-const rinkeby = require("./tokens/rinkeby.json");
+const kovan = require("./tokens/kovan.json");
 
 module.exports = async function buildList() {
   let dedupe = { n: [], s: [], a: [] };
@@ -34,7 +34,7 @@ module.exports = async function buildList() {
     },
     tags: {},
     keywords: ["ixs", "default"],
-    tokens: [...tokens, ...mainnet, ...rinkeby]
+    tokens: [...tokens, ...mainnet, ...kovan]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

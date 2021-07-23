@@ -1,7 +1,7 @@
 [
   {
     "name": "Wrapped Ether",
-    "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+    "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 4,
@@ -9,19 +9,11 @@
   },
   {
     "name": "Dai Stablecoin",
-    "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
+    "address": "0x4f96fe3b7a6cf9725f59d353f723c1bdb64ca6aa",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 4,
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-  },
-  {
-    "name": "TestUsdtToken",
-    "address": "0xD92E713d051C37EbB2561803a3b5FBAbc4962431",
-    "symbol": "TUSDT",
-    "decimals": 6,
-    "chainId": 4,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "name": "Ixs Token",
