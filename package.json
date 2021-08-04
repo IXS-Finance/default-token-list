@@ -1,6 +1,6 @@
 {
   "name": "@ixswap1/default-token-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "◦ The IXS default token list",
   "main": "build/ixs-default.tokenlist.json",
   "scripts": {
