@@ -1,8 +1,16 @@
 [
   {
     "name": "Ixs Token",
-    "address": "0x735d77FC94FC5C41E68Ca0bb486F3d4AE3eEfdd9",
+    "address": "0xbE76627A5ce0e16507e24dBc30aE91a0DD078B93",
     "symbol": "IXS",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://miro.medium.com/fit/c/262/262/1*gVM9kLZfl92C0_tAQaCXBA.jpeg"
+  },
+  {
+    "name": "Ixs Governance Token",
+    "address": "0x95b85A1c9032D6A3459BeaD1ccd76FC7D735ff56",
+    "symbol": "IXSgov",
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://miro.medium.com/fit/c/262/262/1*gVM9kLZfl92C0_tAQaCXBA.jpeg"

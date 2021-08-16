@@ -17,7 +17,7 @@
   },
   {
     "name": "Ixs Token",
-    "address": "0x3b742D5e5a613e9F86d541be8094926397C2BD65",
+    "address": "0xbE76627A5ce0e16507e24dBc30aE91a0DD078B93",
     "symbol": "IXS",
     "decimals": 18,
     "chainId": 42,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Ixs Governance Token",
-    "address": "0x7Bb58506022C4dc0083A4b199d545823149e82F7",
+    "address": "0x95b85A1c9032D6A3459BeaD1ccd76FC7D735ff56",
     "symbol": "IXSgov",
     "decimals": 18,
     "chainId": 42,
