@@ -21,7 +21,7 @@
     "symbol": "IXS",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://miro.medium.com/fit/c/262/262/1*gVM9kLZfl92C0_tAQaCXBA.jpeg"
+    "logoURI": "http://static.ixswap.io/ixs-logo.png"
   },
   {
     "name": "Ixs Governance Token",
@@ -29,6 +29,6 @@
     "symbol": "IXSgov",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://miro.medium.com/fit/c/262/262/1*gVM9kLZfl92C0_tAQaCXBA.jpeg"
+    "logoURI": "http://static.ixswap.io/ixs-logo.png"
   }
 ]
