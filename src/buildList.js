@@ -17,6 +17,9 @@ module.exports = async function buildList() {
       else if (!name || !symbol || !address || !decimals || decimals <= 0 || !logoURI) return null;
       else if (!/^[a-zA-Z0-9+\-%/\$]+$/.test(symbol) || !/^[ \w.'+\-%/À-ÖØ-öø-ÿ:]+$/.test(name)) return null;
       dedupe.n.push(n); dedupe.s.push(s); dedupe.a.push(a);
+
+      // remove non checksummed tokens
+      if (address.toLowerCase() === address) return null;
       
       return { name, address, symbol, decimals, chainId: chainId || 1, logoURI };
     }
