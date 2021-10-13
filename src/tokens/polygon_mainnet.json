@@ -1,7 +1,7 @@
 [
     {
       "name": "Wrapped Ixs Token",
-      "address": "0x1ba17c639bdaecd8dc4aac37df062d17ee43a1b8",
+      "address": "0x1BA17C639BdaeCd8DC4AAc37df062d17ee43a1b8",
       "symbol": "WIXS",
       "decimals": 18,
       "chainId": 137,
