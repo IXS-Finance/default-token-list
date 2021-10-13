@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Ixs Token",
+      "address": "0x3Dc2aA62a4bF480b92b09AB4fCD989c4e7b63E1b",
+      "symbol": "IXS",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "http://static.ixswap.io/ixs-logo.png"
+    }
+  ]
