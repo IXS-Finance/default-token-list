@@ -31,8 +31,6 @@
     "chainId": 42,
     "logoURI": "http://static.ixswap.io/ixs-logo.png"
   },
-
-  
   {
     "name": "Tether USD",
     "address": "0x9eacd4317b9623cb43b6afbe121e2a9a2426aa2b",
