@@ -9,7 +9,7 @@
   },
   {
     "name": "Dai Stablecoin",
-    "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
+    "address": "0x7B137484B6c38d6f2151FB1f4B3c054A3E042d71",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 42,
@@ -30,5 +30,95 @@
     "decimals": 18,
     "chainId": 42,
     "logoURI": "http://static.ixswap.io/ixs-logo.png"
+  },
+
+  
+  {
+    "name": "Tether USD",
+    "address": "0x9eacd4317b9623cb43b6afbe121e2a9a2426aa2b",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
+  },
+  {
+    "name": "Ixswap Stable Coin DAI",
+    "address": "0x8234ff99e7c1bfc45f076af399fd89e034e710dc",
+    "symbol": "IDAI",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "http://static.ixswap.io/ixs-logo.png"
+  },
+  {
+    "name": "Ixswap Stable Coin",
+    "address": "0xb10c4ec295225688461ddbc6d30e8291e9934464",
+    "symbol": "IUSDC",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "http://static.ixswap.io/ixs-logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x0E965311aE3d4b1aaf702C71B19D179F197D1404",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+  },
+  {
+    "name": "Maker Kovan",
+    "address": "0x57Eb96F9D37F8884430756bE17ad7f02b565a670",
+    "symbol": "MKR",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "address": "0x55b3EfB1Fe8a1919d77f2e6B8EED3766077f0442",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png"
+  },
+  {
+    "name": "yearn.finance",
+    "address": "0x586e068592f6e5897abE70a283C5cf2E6F87946F",
+    "symbol": "YFI",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png"
+  },
+  {
+    "name": "Compound",
+    "address": "0x2929D544839C7C659763cED98693e25BB4Cb69EB",
+    "symbol": "COMP",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png"
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x4dD76BbE53d6C840dCFfCaD92FEDdF0248a5da7e",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
+  },
+  {
+    "name": "Aragon Network Token",
+    "address": "0x469e887C7B6Fc067a7cb2ECC1e22bA3512329B7B",
+    "symbol": "ANT-T",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": ""
+  },
+  {
+    "name": "Synthetix Network Token",
+    "address": "0xC1E8E716825E5684c22221ef1E72B1a8A120863E",
+    "symbol": "SNX",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SNX/logo.png"
   }
 ]
