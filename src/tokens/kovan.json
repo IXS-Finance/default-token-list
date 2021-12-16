@@ -33,37 +33,14 @@
   },
 
   
-  {
-    "name": "Tether USD",
-    "address": "0x9eacd4317b9623cb43b6afbe121e2a9a2426aa2b",
-    "symbol": "USDT",
-    "decimals": 18,
-    "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
-  },
-  {
-    "name": "Ixswap Stable Coin DAI",
-    "address": "0x8234ff99e7c1bfc45f076af399fd89e034e710dc",
-    "symbol": "IDAI",
-    "decimals": 18,
-    "chainId": 42,
-    "logoURI": "http://static.ixswap.io/ixs-logo.png"
-  },
-  {
-    "name": "Ixswap Stable Coin",
-    "address": "0xb10c4ec295225688461ddbc6d30e8291e9934464",
-    "symbol": "IUSDC",
-    "decimals": 18,
-    "chainId": 42,
-    "logoURI": "http://static.ixswap.io/ixs-logo.png"
-  },
+  
   {
     "name": "USD Coin",
     "address": "0x0E965311aE3d4b1aaf702C71B19D179F197D1404",
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "name": "Maker Kovan",
@@ -71,7 +48,7 @@
     "symbol": "MKR",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/MKR/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
   },
   {
     "name": "Wrapped Bitcoin",
@@ -111,7 +88,7 @@
     "symbol": "ANT-T",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": ""
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png"
   },
   {
     "name": "Synthetix Network Token",

@@ -21,7 +21,7 @@ describe('buildList', () => {
     if (!valid) {
       console.error(validate.errors);
     }
-
+    //console.log(defaultTokenList)
     expect(valid).to.equal(true);
   });
 
