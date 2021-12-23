@@ -53,7 +53,7 @@
     "symbol": "WBTC",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
     "name": "yearn.finance",
@@ -61,7 +61,7 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/YFI/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c/logo.png"
   },
   {
     "name": "Compound",
@@ -69,15 +69,15 @@
     "symbol": "COMP",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/COMP/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
   },
   {
     "name": "ChainLink Token",
-    "address": "0x4dD76BbE53d6C840dCFfCaD92FEDdF0248a5da7e",
+    "address": "0x6a2951Cc518EfaDd7bEEC657A99554D17A7a85cd",
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
   },
   {
     "name": "Aragon Network Token",
@@ -93,6 +93,33 @@
     "symbol": "SNX",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/SNX/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets//logo.png"
+  },
+
+
+
+  {
+    "name": "Coinbase",
+    "address": "0x4dD76BbE53d6C840dCFfCaD92FEDdF0248a5da7e",
+    "symbol": "COIN",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4185cf99745B2a20727B37EE798193DD4a56cDfa/logo.png"
+  },
+  {
+    "name": "Apple",
+    "address": "0xF967609FEe462C615Da5F111ae50a0bEaF4c4C97",
+    "symbol": "AAPL",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84/logo.png"
+  },
+  {
+    "name": "Tesla",
+    "address": "0xEef7bf04AA762759Fe856e61C96cE7e6c42fd602",
+    "symbol": "TSLA",
+    "decimals": 18,
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x21cA39943E91d704678F5D00b6616650F066fD63/logo.png"
   }
 ]
