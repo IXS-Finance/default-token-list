@@ -31,9 +31,6 @@
     "chainId": 42,
     "logoURI": "http://static.ixswap.io/ixs-logo.png"
   },
-
-
-  
   {
     "name": "USD Coin",
     "address": "0x0E965311aE3d4b1aaf702C71B19D179F197D1404",
