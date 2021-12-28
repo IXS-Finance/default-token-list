@@ -72,12 +72,12 @@
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
   },
   {
-    "name": "ChainLink Token",
+    "name": "Coinbase",
     "address": "0x6a2951Cc518EfaDd7bEEC657A99554D17A7a85cd",
-    "symbol": "LINK",
+    "symbol": "COIN",
     "decimals": 18,
     "chainId": 42,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x4185cf99745B2a20727B37EE798193DD4a56cDfa/logo.png"
   },
   {
     "name": "Aragon Network Token",
