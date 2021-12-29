@@ -96,14 +96,6 @@
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
   },
   {
-    "name": "Coinbase",
-    "address": "0x4046b85FEda27154ABC8513f2a78216bE89fC2c8",
-    "symbol": "COIN",
-    "decimals": 18,
-    "chainId": 42,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x4185cf99745B2a20727B37EE798193DD4a56cDfa/logo.png"
-  },
-  {
     "name": "Apple",
     "address": "0xF967609FEe462C615Da5F111ae50a0bEaF4c4C97",
     "symbol": "AAPL",
