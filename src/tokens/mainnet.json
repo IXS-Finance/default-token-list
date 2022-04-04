@@ -5,7 +5,7 @@
     "symbol": "IXS",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "http://static.ixswap.io/ixs-logo.png"
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
   },
   {
     "name": "Ixs Governance Token",
@@ -13,14 +13,14 @@
     "symbol": "IXSgov",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "http://static.ixswap.io/ixs-logo.png"
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
   },
   {
     "name": "Millennium Sapphire",
-    "address": "0x8d26cca0d58913932157dd4b294d4c95066172df",
+    "address": "0x8D26ccA0D58913932157dD4b294d4C95066172dF",
     "symbol": "MSTO",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "http://static.ixswap.io/msto-logo.png"
+    "logoURI": "https://static.ixswap.io/msto-logo.png"
   }
 ]

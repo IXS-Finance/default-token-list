@@ -5,7 +5,7 @@
     "symbol": "WIXS",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "http://static.ixswap.io/ixs-logo.png"
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
   },
   {
     "name": "Ixs Governance Token",
@@ -13,7 +13,7 @@
     "symbol": "IXSgov",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "http://static.ixswap.io/ixs-logo.png"
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
   },
   {
     "name": "Wrapped Ether",
@@ -29,6 +29,6 @@
     "symbol": "wMSTO",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "http://static.ixswap.io/msto-logo.png"
+    "logoURI": "https://static.ixswap.io/msto-logo.png"
   }
 ]
