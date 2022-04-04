@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://static.ixswap.io/msto-logo.png"
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 137,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   }
 ]
