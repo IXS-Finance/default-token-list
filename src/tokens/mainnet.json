@@ -24,7 +24,7 @@
     "logoURI": "https://static.ixswap.io/msto-logo.png"
   },
   {
-    "name": "wrapped Ferrari F12tdf CT1"
+    "name": "wrapped Ferrari F12tdf CT1",
     "address": "0x46683747b55c4a0ff783b1a502ce682eb819eb75",
     "symbol": "wCT1",
     "decimals": 2,
