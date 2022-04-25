@@ -44,7 +44,7 @@
     "address": "0x495F7c62E2e419aB16978ec0895d6aEeeD2148e5",
     "symbol": "wCT1",
     "decimals": 2,
-    "chaindId": 137,
+    "chainId": 137,
     "logoURI": "https://static.ixswap.io/wct1-logo.png"
   }
 ]
