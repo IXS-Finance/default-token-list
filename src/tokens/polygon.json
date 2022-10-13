@@ -46,5 +46,13 @@
     "decimals": 2,
     "chainId": 137,
     "logoURI": "https://static.ixswap.io/wct1-logo.png"
+  },
+  {
+    "name": "Wrapped InvestaX",
+    "address": "0xB1Ba9ae7A7295a412e6108F603A0caa3897c9CF6",
+    "symbol": "wIXAPE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://static.ixswap.io/ixape-logo.png"
   }
 ]
