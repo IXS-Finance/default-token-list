@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Test Ixs Token Mumbai",
+    "address": "0xf3EC294a835502E357F8eDba18465CBFa814F005",
+    "symbol": "TIXS",
+    "decimals": 18,
+    "chainId": 80001,
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
+  }
+]
