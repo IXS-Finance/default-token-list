@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Test Ixs Token Amoy",
+    "address": "0x30fADa52969974d31F2738e7a890334266636d40",
+    "symbol": "TIXS",
+    "decimals": 18,
+    "chainId": 80002,
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
+  },
+  {
+    "name": "USDC Test",
+    "address": "0xA9bc9D3F0fF05AB339D1E195982794B15beA0f88",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 80002,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  }
+]
