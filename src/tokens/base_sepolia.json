@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Test Ixs Token Base",
+    "address": "0x949546713004ee02537292b1F41046f705909191",
+    "symbol": "TIXS",
+    "decimals": 18,
+    "chainId": 84532,
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
+  },
+  {
+    "name": "USDC Test",
+    "address": "0xA9c2c7D5E9bdA19bF9728384FFD3cF71Ada5dfcB",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 84532,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "USDT Test",
+    "address": "0x142953B2F88D0939FD9f48F4bFfa3A2BFa21e4F8",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 84532,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Wrapped Ether Test",
+    "address": "0x4a2b0767ACEE85C7825F09F48A9347285F58a5C2",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 84532,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  }
+]
