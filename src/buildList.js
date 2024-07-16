@@ -5,6 +5,8 @@ const kovan = require("./tokens/kovan.json");
 const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
 const amoy = require("./tokens/amoy.json");
+const base = require("./tokens/base.json");
+const baseSepolia = require("./tokens/base_sepolia.json");
 
 module.exports = async function buildList() {
   let dedupe = { n: [], s: [], a: [] };
@@ -67,7 +69,7 @@ module.exports = async function buildList() {
     },
     tags: {},
     keywords: ["ixs", "default"],
-    tokens: [...tokens, ...mainnet, ...kovan, ...polygon, ...mumbai, ...amoy]
+    tokens: [...tokens, ...mainnet, ...kovan, ...polygon, ...mumbai, ...amoy, ...base, ...baseSepolia]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
