@@ -6,7 +6,7 @@ const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
 const amoy = require("./tokens/amoy.json");
 const base = require("./tokens/base.json");
-const baseSepolia = require("./tokens/base-sepolia.json");
+const baseSepolia = require("./tokens/base_sepolia.json");
 
 module.exports = async function buildList() {
   let dedupe = { n: [], s: [], a: [] };
