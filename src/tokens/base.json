@@ -9,8 +9,8 @@
   },
   {
     "name": "Test Ixs Token Base",
-    "address": "0x7913B2F933911c4FCf29DA62DB0Db2CF3CdEA894",
-    "symbol": "TIXS",
+    "address": "0xb473dc4C4B7d51247c01F07A9dCB7f947D9F9389",
+    "symbol": "IXS",
     "decimals": 18,
     "chainId": 8453,
     "logoURI": "https://static.ixswap.io/ixs-logo.png"
