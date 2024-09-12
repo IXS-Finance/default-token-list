@@ -46,5 +46,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://static.ixswap.io/ixape-logo.png"
+  },
+  {
+    "name": "NEOPIN Token",
+    "address": "0x306ee01a6bA3b4a8e993fA2C1ADC7ea24462000c",
+    "symbol": "NPT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/token/images/neopin_32.png"
   }
 ]
