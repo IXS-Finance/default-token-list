@@ -1,0 +1,18 @@
+[
+  {
+    "name": "USDC Test",
+    "address": "0x5b1ee9098fB1C0AF0770a853D9cdC917395Cc137",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 7849306,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "USDT Test",
+    "address": "0x8CfE82594Ec8F065326c4cC2E93372904836DB31",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 7849306,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  }
+]
