@@ -16,14 +16,6 @@
     "logoURI": "https://static.ixswap.io/ixs-logo.png"
   },
   {
-    "name": "Millennium Sapphire",
-    "address": "0x8D26ccA0D58913932157dD4b294d4C95066172dF",
-    "symbol": "MSTO",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://static.ixswap.io/msto-logo.png"
-  },
-  {
     "name": "Wrapped Car Token 1",
     "address": "0x46683747B55C4A0fF783B1A502cE682eB819eb75",
     "symbol": "wCT1",

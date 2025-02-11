@@ -24,14 +24,6 @@
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
-    "name": "Millennium Sapphire",
-    "address": "0x4ea4C3159693E6F5174F1D9DA21ea30876F9981c",
-    "symbol": "wMSTO",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://static.ixswap.io/msto-logo.png"
-  },
-  {
     "name": "USD (Bridged)",
     "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
     "symbol": "USDC.e",

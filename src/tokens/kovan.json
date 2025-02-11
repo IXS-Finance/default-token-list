@@ -110,13 +110,5 @@
     "decimals": 18,
     "chainId": 42,
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x21cA39943E91d704678F5D00b6616650F066fD63/logo.png"
-  },
-  {
-    "name": "Millennium Sapphire",
-    "address": "0xE504975498dD2C861986e63FE39547569DF76Dde",
-    "symbol": "wMSTO",
-    "decimals": 18,
-    "chainId": 42,
-    "logoURI": "https://static.ixswap.io/msto-logo.png"
   }
 ]
