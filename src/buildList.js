@@ -7,6 +7,7 @@ const mumbai = require("./tokens/mumbai.json");
 const amoy = require("./tokens/amoy.json");
 const base = require("./tokens/base.json");
 const baseSepolia = require("./tokens/base_sepolia.json");
+const kaia = require("./tokens/kaia.json");
 const kaiaTestnet = require("./tokens/kaia_testnet.json");
 const ozeanTestnet = require("./tokens/ozean_testnet.json");
 
@@ -80,6 +81,7 @@ module.exports = async function buildList() {
       ...amoy,
       ...base,
       ...baseSepolia,
+      ...kaia,
       ...kaiaTestnet,
       ...ozeanTestnet,
     ]
