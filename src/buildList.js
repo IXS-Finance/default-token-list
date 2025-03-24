@@ -10,6 +10,7 @@ const baseSepolia = require("./tokens/base_sepolia.json");
 const kaia = require("./tokens/kaia.json");
 const kaiaTestnet = require("./tokens/kaia_testnet.json");
 const ozeanTestnet = require("./tokens/ozean_testnet.json");
+const redBellyTestnet = require("./tokens/red_belly_testnet.json");
 
 module.exports = async function buildList() {
   let dedupe = { n: [], s: [], a: [] };
@@ -84,6 +85,7 @@ module.exports = async function buildList() {
       ...kaia,
       ...kaiaTestnet,
       ...ozeanTestnet,
+      ...redBellyTestnet,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
