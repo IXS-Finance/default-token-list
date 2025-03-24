@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Test Ixs Token Base",
+    "address": "0x0aeF02d9cb4cd7a480d867ae765E6eA8D00368df",
+    "symbol": "TIXS",
+    "decimals": 18,
+    "chainId": 153,
+    "logoURI": "https://static.ixswap.io/ixs-logo.png"
+  },
+  {
+    "name": "USDC Test",
+    "address": "0x5c5f3E64bd3F95Df54a6601369BD3A08bfD28a2f",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 153,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "USDT Test",
+    "address": "0x4ACD6644B435D837f248F46bF363c7547A869c70",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 153,
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Wrapped RBNT",
+    "address": "0xC8fce9E9F0a999Def5cbc041AcC64750C3F92Cd8",
+    "symbol": "wRBNT",
+    "decimals": 18,
+    "chainId": 153,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/34849.png"
+  }
+]
