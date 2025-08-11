@@ -30,5 +30,21 @@
     "decimals": 18,
     "chainId": 84532,
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Coach K Gaming Portfolio (CKGP)",
+    "address": "0x8D58468fB308Fc3370C141824Ee8f192C69239A4",
+    "symbol": "CKGP",
+    "decimals": 18,
+    "chainId": 84532,
+    "logoURI": "https://cdn-icons-png.flaticon.com/128/6456/6456119.png"
+  },
+  {
+    "name": "Coach K Gaming Portfolio (CKGP) - new",
+    "address": "0x20d6514c5F620Af2a8a75734784081202C64Dee7",
+    "symbol": "CKGPN",
+    "decimals": 18,
+    "chainId": 84532,
+    "logoURI": "https://cdn-icons-png.flaticon.com/128/3884/3884552.png"
   }
 ]
