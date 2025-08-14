@@ -46,5 +46,13 @@
     "decimals": 18,
     "chainId": 84532,
     "logoURI": "https://cdn-icons-png.flaticon.com/128/3884/3884552.png"
+  },
+  {
+    "name": "Wrapped Hien RWA 001",
+    "address": "0xE91F143714021D17904331d46BE61a9BAb2Cf91D",
+    "symbol": "wRWA-ONE",
+    "decimals": 18,
+    "chainId": 84532,
+    "logoURI": "https://cdn-icons-png.flaticon.com/128/3884/3884556.png"
   }
 ]
