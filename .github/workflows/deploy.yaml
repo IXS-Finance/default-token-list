@@ -23,7 +23,8 @@ jobs:
         run: npm test
 
       - name: Publish to NPM
-        uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
+        uses: JS-DevTools/npm-publish@v3
         with:
           token: ${{ secrets.NPM_TOKEN }}
+          access: public
 
