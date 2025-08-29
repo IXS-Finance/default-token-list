@@ -46,5 +46,37 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://polygonscan.com/token/images/neopin_32.png"
+  },
+  {
+    "name": "Coach K Gaming P",
+    "address": "0x47D8608E1adB7d600E038Ef995ed3951e4b7DEd5",
+    "symbol": "CKGP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
+  },
+  {
+    "name": "TAU DIGITAL",
+    "address": "0x940a5cc6f3b6D9bf7a710e7E641369685cCaecAD",
+    "symbol": "TAU",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
+  },
+  {
+    "name": "IXAPE",
+    "address": "0x8FE65d81f5A77732dBcC3878ba93bdeB3E3a8538",
+    "symbol": "IXAPE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
+  },
+  {
+    "name": "Millennium Sapphire Token",
+    "address": "0xCBe4C86DF7bd5076156a790Be70B50f2D3570218",
+    "symbol": "MSTO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
   }
 ]
