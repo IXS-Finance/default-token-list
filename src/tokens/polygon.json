@@ -53,7 +53,7 @@
     "symbol": "CKGP",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
+    "logoURI": "https://api-prod.ixs.finance/v1/storage/file/public/c71cc899-83f6-4cbd-a67d-e6f7c0e6536a"
   },
   {
     "name": "TAU DIGITAL",
@@ -61,7 +61,7 @@
     "symbol": "TAU",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
+    "logoURI": "https://api-prod.ixs.finance/v1/storage/file/public/23dea09d-7f77-4e47-9d45-48af9023e85e"
   },
   {
     "name": "IXAPE",
@@ -69,7 +69,7 @@
     "symbol": "IXAPE",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
+    "logoURI": "https://api-prod.ixs.finance/v1/storage/file/public/096e299e-5801-421b-965e-c4a118219d47"
   },
   {
     "name": "Millennium Sapphire Token",
@@ -77,6 +77,6 @@
     "symbol": "MSTO",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://polygonscan.com/assets/poly/images/svg/empty-token.svg"
+    "logoURI": "https://api-prod.ixs.finance/v1/storage/file/public/54bb2f73-b679-4760-96b2-5ae8cb15ee4a"
   }
 ]
